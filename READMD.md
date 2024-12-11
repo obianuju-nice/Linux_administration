@@ -1,5 +1,4 @@
 
-
 Linux administration comprised of Applications and Storage
 
 what is Applications
