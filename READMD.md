@@ -1,14 +1,5 @@
 
 
-obianuju onyinye
- 
-From:
-obiasedos@yahoo.com
-To:
-obianuju onyinye
-
-Wed, 11 Dec at 12:13
-
 Linux administration comprised of Applications and Storage
 
 what is Applications
